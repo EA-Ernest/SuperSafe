@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "261906880869",
+    "firebase_url": "https://supersafe-e9a5e-default-rtdb.firebaseio.com",
+    "project_id": "supersafe-e9a5e",
+    "storage_bucket": "supersafe-e9a5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261906880869:android:61f133cef65a9bf8a6298c",
+        "android_client_info": {
+          "package_name": "com.example.super_safe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBmgNvTKnSLg-p4LpHcwfJ6-uSJzENlfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261906880869:android:257d22fe4dd53edaa6298c",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.b1970805"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBmgNvTKnSLg-p4LpHcwfJ6-uSJzENlfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
